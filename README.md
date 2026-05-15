@@ -5,7 +5,7 @@
 ### Мои проекты
 *   **[Финансовый трекер](https://github.com/rT0210/finance-tracker)** — приложение для учёта доходов и расходов. React, Redux Toolkit, TypeScript, Tailwind. Фильтрация по месяцам, графики, аналитика.
 *   **[Movie App](https://github.com/rT0210/movie)** — каталог фильмов с поиском. React, Redux Toolkit, интеграция с TMDB API.
-*   **[Diary App](https://github.com/rT0210/diary)** — дневник разработчика с кастомным календарём. React, Redux Toolkit, TypeScript, Tailwind. Возможность менять типографику, настраивать внешний вид.
+*   **[Diary App](https://github.com/rT0210/diary-app)** — дневник разработчика с кастомным календарём. React, Redux Toolkit, TypeScript, Tailwind. Возможность менять типографику, настраивать внешний вид.
 
 ### Мои навыки
 *   **Языки и библиотеки:** JavaScript (ES6+), TypeScript, React, Redux Toolkit, Tailwind CSS.
