@@ -2,7 +2,7 @@
 
 ![График активности](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rT0210&theme=tokyonight)
 
-## Я фронтенд-разработчик из Краснодара. Создаю приложения на React и TypeScript.
+## Я фронтенд-разработчик. Создаю приложения на React и TypeScript.
 
 ### 🌐 Мои проекты
 *   **[Финансовый трекер](https://github.com/rT0210/finance-tracker)** — приложение для учёта доходов и расходов. React, Redux Toolkit, TypeScript, Tailwind.
@@ -17,5 +17,5 @@
 
 ### 📫 Контакты
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/trymorethanyouhave)
-[![Email](r1plcops@mail.ru)
+почта: r1plcops@mail.ru
 
