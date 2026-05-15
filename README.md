@@ -17,12 +17,5 @@
 
 ### 📫 Контакты
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/trymorethanyouhave)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:r1plcops@mail.ru)
+[![Email](r1plcops@mail.ru)
 
-### 📊 Статистика
-| ![Статистика](https://github-readme-stats.vercel.app/api?username=rT0210&show_icons=true&theme=tokyonight) | ![Языки](https://github-readme-stats.vercel.app/api/top-langs/?username=rT0210&layout=compact&theme=tokyonight) |
-|---|---|
-
-![Трофеи](https://github-profile-trophy.vercel.app/?username=rT0210&theme=tokyonight&no-frame=true&row=1)
-
-![](https://komarev.com/ghpvc/?username=rT0210&style=flat-square)
